@@ -1,0 +1,32 @@
+{
+  "name": "inuitcss-generator",
+  "version": "1.0.0",
+  "description": "Settings generator and previewer for inuitcss",
+  "main": "index.htm",
+  "dependencies": {
+    "inuitcss": "^6.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.4.1",
+    "gulp-uglify": "^2.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "styles",
+    "frontend",
+    "css",
+    "scss",
+    "sass",
+    "framework",
+    "bem"
+  ],
+  "author": "Lewis Lane",
+  "license": "ISC"
+}
